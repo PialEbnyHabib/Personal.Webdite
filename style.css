@@ -1,0 +1,190 @@
+.firstpart{
+
+    font-family: 'Montserrat', sans-serif; 
+    height: 1000px;
+    width: 100%;
+    background-image: url("images/header-bg.png");
+}
+
+.details1{
+    margin-top: 8%;
+    margin-left: 8%;
+    padding: 2%;
+    width: 35%;
+    float: left;
+}
+
+.details1 img{
+
+    width: 100%;
+}
+
+.talk{
+    background-color: rgb(197, 212, 59);
+    padding: 20px 40px;
+    text-decoration: none;
+    border-radius: 10px;
+    font-size: 20px;
+    color: white;
+}
+.talk:hover{
+    color: black;
+}
+
+.secondpart{
+    font-family: 'Montserrat', sans-serif; 
+    height: 800px;
+    width: 100%;
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    
+}
+
+
+.biography{
+
+    float: left;
+    width: 40%;
+    padding: 2%;
+    margin: 2%;
+    height: 100%;
+
+}
+
+.biography img{
+
+    width: 100%;
+}
+
+.button2{
+
+    background-color: rgb(200, 41, 126);
+    padding: 25px 40px;
+    margin-top: 20%; 
+    border-radius: 10px;
+    font-size: 25px;
+    color: rgb(238, 232, 232);
+    text-decoration: none;
+}
+
+.button2:hover{
+    color: black;
+}
+
+.latestwork{
+
+    height: 650px;
+    font-family: 'Montserrat', sans-serif; 
+    width: 100% ;
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+}
+
+.worktext{
+
+   color: dimgray;
+   text-align: center;
+   font-size: 30px;
+}
+
+.workpic{
+    margin-left: 22%;
+    width: 55%;
+}
+.pic{
+    
+    width: 29%;
+    padding: 2%;
+    float: left;
+
+}
+
+.interest{
+    font-family: 'Montserrat', sans-serif; 
+    font-size: 50px;
+    color: dimgray;
+    margin-left: 34%;
+
+}
+
+.private{
+    height: 800px;
+    font-family: 'Montserrat', sans-serif; 
+    float: left;
+    margin-left: 12%;
+    padding-bottom: 20px;
+    background-color: white;
+    
+    
+}
+
+.title{
+    text-align: center;
+}
+
+.personal{
+    box-shadow: 10px 10px 50px gray;
+    width: 30%;
+    float: left;
+    margin: 4%;
+    padding:3% ;
+    height: 250px;
+    border-radius: 10px;
+   
+
+
+}
+
+
+.foot{
+    font-family: 'Montserrat', sans-serif; 
+    height: 1500px;
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+}
+
+.clint{
+      
+    color: dimgray;
+    text-align: center;
+    font-size: 50px;
+     padding-top: 50px;
+
+
+}
+
+.comment{
+    color: dimgray;
+
+    text-align: center;
+}
+
+.mail{
+    
+    text-decoration: none;
+    background-color: rgb(185, 51, 51);
+    color: white;
+    padding: 30px 50px;
+    font-size: 20px; 
+    border-radius: 10px;
+    margin-left: 42%;
+    
+}
+
+.mail:hover{
+
+color: black;
+
+}
+
+
+.bottom
+{
+
+    font-size: 10px;
+    color: dimgray;
+    text-align: center;
+    margin-top: 20%;
+}
+
+
